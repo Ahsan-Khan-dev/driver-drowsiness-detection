@@ -44,7 +44,9 @@ cd driver-drowsiness-detection
 pip install -r requirements.txt
 
 4. Download the pre-trained model:
-- `shape_predictor_68_face_landmarks.dat`
+
+https://drive.google.com/file/d/1YDd7OOlwxrgQGbE3murZ37J9qhDDMQYI/view?usp=drivesdk⁠
+
 - Place it in the project directory
 
 ## Usage
